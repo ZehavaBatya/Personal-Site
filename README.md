@@ -8,6 +8,7 @@ My personal site is a website for previewing my career, academic, and learning e
 ## How It's Made:
 
 **Tech used:** JavaScript, SCSS, CSS, HTML
+
 With JQuery, the JavaScript enables users to fill out a form with their name, e-mail address, and message to send to me. There are two buttons as well that can be clicked. The downward facing arrow allows for the page to move from the top to the bottom of the page. When a piece of media is clicked with the cursor, the media enlarges to better view it.
 
 ## Optimizations
